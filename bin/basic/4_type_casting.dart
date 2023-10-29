@@ -37,7 +37,7 @@ void main() {
 //________________________________________________________________
   // from double to String...
   double n6 = 123.2;
-  String s6 = n6.toStringAsFixed(2);
+  String s6 = n6.toStringAsFixed(5);
   print(s6); //123.20
 
   //________________________________________________________________

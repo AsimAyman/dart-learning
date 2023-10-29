@@ -1,4 +1,4 @@
-void main(){ // you can remove the return type for the main function
+main(){ // you can remove the return type for the main function
   print('h"i');
   print("hi'2");
   print("""
