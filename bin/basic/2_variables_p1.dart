@@ -10,7 +10,7 @@ void main() {
   var a =
       12; // a = "any another data type accept the integer will cause an error since it is dynamic"
   dynamic b = 12;
-  b - "asas"; // but it works correctly with dynamic.
+  b = "asas"; // but it works correctly with dynamic.
   //_________________________________________________________
   final sName;
   sName = "Ayman";

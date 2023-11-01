@@ -10,6 +10,19 @@ void main() {
   int i = d.toInt();
   print(i); //12
   //________________________________________________________________
+  // from int to String...
+  int n5 = 123;
+  String s5 = n5.toString();
+  print(s5); //123
+
+//________________________________________________________________
+  // from double to String...
+  double n6 = 123.2;
+  String s6 = n6.toStringAsFixed(5); 
+  print(s6); //123.20
+
+  //________________________________________________________________
+
   // from String to int...
   String s = "123";
   int n1 = int.parse(s);
@@ -29,19 +42,7 @@ void main() {
   print(n4); //123.0
 
   //________________________________________________________________
-  // from int to String...
-  int n5 = 123;
-  String s5 = n5.toString();
-  print(s5); //123
-
-//________________________________________________________________
-  // from double to String...
-  double n6 = 123.2;
-  String s6 = n6.toStringAsFixed(5);
-  print(s6); //123.20
-
-  //________________________________________________________________
-
+  
   // from String to bool...
   String s7 = "true";
   bool b1 = bool.parse(s7);
