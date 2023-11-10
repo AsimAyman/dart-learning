@@ -73,9 +73,6 @@
 * Final Project
 ***
 
-
-***
-
 # certificates:
 ![image](https://github.com/AsimAyman/dart-learning/assets/83433950/5fb2205f-065f-473c-b17e-32198e8200cd)
 ![image](https://github.com/AsimAyman/dart-learning/assets/83433950/1cbf53f5-8ce8-484d-8bb6-dee5b63c720a)
